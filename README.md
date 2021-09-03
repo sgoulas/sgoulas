@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my personal development project**
 
-- 🌱 I’m currently learning **apollo client/server, redux saga, toolchain configuration, redux toolkit and Next**
+- 🌱 I’m currently learning **apollo client/server, redux saga, toolchain configuration, redux toolkit and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sgoulas?tab=repositories](https://github.com/sgoulas?tab=repositories)
 
