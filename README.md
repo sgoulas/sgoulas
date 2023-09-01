@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgoulas&label=Profile%20views&color=0e75b6&style=flat" alt="sgoulas" /> </p>
 
-- 🔭 I’m currently working on **my personal development project**
+- 🔭 I’m currently working on **transitioning to fullstack engineer**
 
-- 🌱 I’m currently learning **apollo client/server, redux saga, toolchain configuration, redux toolkit and NextJS**
+- 🌱 I’m currently learning **NodeJS, Express, PostgreSQL and GraphQL (BE)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sgoulas?tab=repositories](https://github.com/sgoulas?tab=repositories)
 
