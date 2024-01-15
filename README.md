@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Express, PostgreSQL and GraphQL (BE)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sgoulas?tab=repositories](https://github.com/sgoulas?tab=repositories)
+- 👨‍💻 All of my public projects are available at [https://github.com/sgoulas?tab=repositories](https://github.com/sgoulas?tab=repositories)
 
 - 💬 Ask me about **react and javascript**
 
